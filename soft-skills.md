@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>learning</title>
-    <script>
-        alert("mensaje con javascript")
-    </script>
-    <script src="./intro.js"></script>
-</head>
-<body>
-    <h1>título arriba</h1>
-    <p>prueba</p>
-    # ++Soft Skills++🎯
+# ++Soft Skills++🎯
 ## ++Lo que diferencia a Seniors de Juniors++😉
 
 >"Las habilidades técnicas te llevan a la puerta, pero 
@@ -43,5 +28,3 @@ El informe mostró que ciertos tipos de puestos priorizan aún más las habilida
 
 🤔Esto significa que se volverán aún más valiosas en el futuro laboral, desde para conseguir el **primer empleo** hasta crecer profesionalmente asumiendo **nuevos roles**. 📈
 ![JairoProDev-Soft-Skills.png](https://static.platzi.com/media/user_upload/JairoProDev-Soft-Skills-b1d4f515-4e49-492f-a423-1792df5c0de7.jpg)
-</body>
-</html>
